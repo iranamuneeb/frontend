@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32305b38.css",
+    "main.js": "/static/js/main.9903b639.js",
+    "static/media/couple.png": "/static/media/couple.3ec1b8f37b48ccbb3b1e.png",
+    "static/media/group.png": "/static/media/group.576e55aa81bec96216ab.png",
+    "static/media/2509.jpg": "/static/media/2509.ce4c900c2bbbf17e0029.jpg",
+    "static/media/hi.png": "/static/media/hi.8c54728c39055396ae3c.png",
+    "static/media/doodle-main.jpg": "/static/media/doodle-main.0527e6ed62fc1d2383a1.jpg",
+    "static/media/Questrial-Regular.ttf": "/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
+    "static/media/404.png": "/static/media/404.27df96fefd06d8c3b5b0.png",
+    "static/media/Kiwi.png": "/static/media/Kiwi.3c07d0960f3b9ec765ff.png",
+    "static/media/review_2.jpg": "/static/media/review_2.3b030b7336b4ed9d374c.jpg",
+    "static/media/review_1.jpg": "/static/media/review_1.af1a9d388440bbe3016e.jpg",
+    "static/media/review_3.jpg": "/static/media/review_3.930adfe88b45cc020acf.jpg",
+    "index.html": "/index.html",
+    "main.32305b38.css.map": "/static/css/main.32305b38.css.map",
+    "main.9903b639.js.map": "/static/js/main.9903b639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32305b38.css",
+    "static/js/main.9903b639.js"
+  ]
+}
